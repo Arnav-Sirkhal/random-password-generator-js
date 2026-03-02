@@ -104,6 +104,7 @@ random-password-generator-js/
 ├── index.html
 ├── style.css
 ├── script.js
+├── LICENSE
 └── README.md
 
 ```
