@@ -23,10 +23,10 @@ function createPassword() {
 generateBtn.addEventListener("click", createPassword);
 
 copyBtn.addEventListener("click", () => {
-  if (password.value === "") {
+  if (passwordBox.value === "") {
     return;
   }
-  navigator.clipboard.writeText(password.value);
+  navigator.clipboard.writeText(passwordBox.value);
   copyBtn.style.filter = "brightness(1.5)";
 
   setTimeout(() => {
