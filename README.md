@@ -4,9 +4,7 @@
 </h1>
 
 <p align="center">
-A clean and modern **Random Password Generator** built using HTML, CSS, and JavaScript.
-
-It generates secure passwords instantly and allows users to copy them with one click.
+A clean and modern **Random Password Generator** built using HTML, CSS, and JavaScript.It generates secure passwords instantly and allows users to copy them with one click.
 
 </p>
 
