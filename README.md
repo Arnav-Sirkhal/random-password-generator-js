@@ -34,7 +34,7 @@ A clean and modern Random Password Generator built using HTML, CSS, and JavaScri
 
 ## 🚀 Live Demo
 
-👉 **Direct Link:** https://arnav-sirkhal.github.io/random-password-generator-js/
+👉 **Direct Link:** https://random-password-generator-js-gamma.vercel.app/
 
 ---
 
